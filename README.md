@@ -6,6 +6,12 @@ CycleGan is used to generate paired images to train UResnet.
 !['traing set'](./images/trainingset.jpg)  
 # Samples of Model Outputs
 !['results'](./images/results.jpg)  
+here is a video clip to show the results of our model  
+[https://www.bilibili.com/video/av75799712/](https://www.bilibili.com/video/av75799712/)
+
+the original videos we used are from Youtube  
+[https://www.youtube.com/watch?v=VTmLIzz7jUU](https://www.youtube.com/watch?v=VTmLIzz7jUU)
+[https://www.youtube.com/watch?v=E4ZxR1C0xmc](https://www.youtube.com/watch?v=E4ZxR1C0xmc)
 # Requirements
 - Linux (code have not been tested on Windows or OSX)
 - NVIDIA GPU + CUDA CuDNN
